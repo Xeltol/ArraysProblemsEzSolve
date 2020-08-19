@@ -1,1 +1,1 @@
-# Solution for most of the array problems
+# Решение разных задач связанных с массивами
